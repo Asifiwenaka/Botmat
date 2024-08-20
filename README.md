@@ -4,7 +4,7 @@
 <h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> 
 
 # FB PROFILE PHOTO</h1>
-<img src="./dashboard/images/.png" alt="banner">
+<img src="./dashboard/imageshttps://www.facebook.com/profile.php?id=61560848702548/.png" alt="banner">
 <h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> 
  
   #💨𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻𝗮𝗹 💨  ABOUT PROJECT INFORMATION</h1>
